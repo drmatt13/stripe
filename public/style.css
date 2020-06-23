@@ -1,0 +1,10 @@
+.payment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.payment-form {
+  padding: 10px;
+  border: 1px solid #0005;
+}
